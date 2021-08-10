@@ -1,6 +1,6 @@
 # nervosnet-work1
 1. Create A Godwoken Account On The EVM Layer 2 Testnet
-<img width="620" alt="Godwoken_Account" src="https://user-images.githubusercontent.com/88662107/128827841-6d83acb4-9a39-49d9-9e25-41c0d745944a.png">
+<img width="587" alt="Godwoken_Account" src="https://user-images.githubusercontent.com/88662107/128828497-483a598a-02d0-49b3-a450-8b757e9c5ebc.png">
 2. A link to the Layer 1 address you funded on the Testnet Explorer.
   https://explorer.nervos.org/aggron/address/ckt1qyqyfwrdznwu0cfeq963u6q7l9g6gqvmpqwq6vucgv
 
